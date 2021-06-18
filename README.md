@@ -70,6 +70,10 @@ kit_admin_kit_editor:
 History Log
 =============
 
+- 0.0.2 -- 2021-06-18
+
+    - Update api to work with Ling.Light_Kit_Admin:0.13.3
+
 - 0.0.1 -- 2021-06-18
 
     - initial commit
